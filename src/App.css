@@ -1,0 +1,293 @@
+/* 
+.nav-ul li{
+  display: inline-block;
+  padding: 10px;
+}
+
+.nav-ul{
+  padding: 5px;
+  margin: 0;
+  
+}
+
+.nav-ul li a{
+  color: white;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.nav-right{
+  text-align: right;
+}
+
+.logo-img{
+  width: 45px;
+  float: left;
+  border-radius: 50%;
+  margin-left: 10px;
+  margin-top: 2px;
+}
+
+.register {
+  margin-left: 35%;
+}
+
+.inputBox{
+  display: block;
+  margin: 20px;
+  padding: 7px;
+  width: 350px;
+  border: 1px solid skyblue;
+}
+
+.heading{
+  padding-left: 3%;
+}
+
+.appbutton{
+  margin: 15px;
+  padding: 10px;
+  width: 150px;
+  background-color: skyblue;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+.login{
+  margin-left: 35%;
+  margin-top: 30px;
+}
+
+
+
+span{
+  color: red;
+  margin-top: -20px;
+  margin-left: 25px;
+  display: block;
+}
+
+.productlist{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.productlist ul li{
+display: inline-block;
+padding: 10px;
+border: 1px solid black;
+width: 150px;
+}
+
+.productlist ul{
+  margin: 0;
+}
+
+.search{
+  width: 400px;
+  height: 30px;
+  margin: 20px;
+  padding-left: 10px;
+  border: 1px solid skyblue;
+}
+.footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: skyblue;
+  padding: 0;
+  text-align: center;
+} */
+.loginBox{
+  padding-top: 12rem;
+}
+.backky {
+  background-color: #E9F1FA;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 100 60'%3E%3Cg fill-opacity='0.94'%3E%3Crect fill='%23E9F1FA' width='11' height='11'/%3E%3Crect fill='%23e7f0fa' x='10' width='11' height='11'/%3E%3Crect fill='%23e4eef9' y='10' width='11' height='11'/%3E%3Crect fill='%23e2edf9' x='20' width='11' height='11'/%3E%3Crect fill='%23e0ecf9' x='10' y='10' width='11' height='11'/%3E%3Crect fill='%23ddebf9' y='20' width='11' height='11'/%3E%3Crect fill='%23dbe9f8' x='30' width='11' height='11'/%3E%3Crect fill='%23d9e8f8' x='20' y='10' width='11' height='11'/%3E%3Crect fill='%23d6e7f8' x='10' y='20' width='11' height='11'/%3E%3Crect fill='%23d4e6f7' y='30' width='11' height='11'/%3E%3Crect fill='%23d1e4f7' x='40' width='11' height='11'/%3E%3Crect fill='%23cfe3f7' x='30' y='10' width='11' height='11'/%3E%3Crect fill='%23cce2f7' x='20' y='20' width='11' height='11'/%3E%3Crect fill='%23cae1f6' x='10' y='30' width='11' height='11'/%3E%3Crect fill='%23c7dff6' y='40' width='11' height='11'/%3E%3Crect fill='%23c5def6' x='50' width='11' height='11'/%3E%3Crect fill='%23c2ddf5' x='40' y='10' width='11' height='11'/%3E%3Crect fill='%23c0dcf5' x='30' y='20' width='11' height='11'/%3E%3Crect fill='%23bddaf5' x='20' y='30' width='11' height='11'/%3E%3Crect fill='%23bad9f4' x='10' y='40' width='11' height='11'/%3E%3Crect fill='%23b8d8f4' y='50' width='11' height='11'/%3E%3Crect fill='%23b5d7f4' x='60' width='11' height='11'/%3E%3Crect fill='%23b2d6f3' x='50' y='10' width='11' height='11'/%3E%3Crect fill='%23b0d4f3' x='40' y='20' width='11' height='11'/%3E%3Crect fill='%23add3f3' x='30' y='30' width='11' height='11'/%3E%3Crect fill='%23aad2f2' x='20' y='40' width='11' height='11'/%3E%3Crect fill='%23a7d1f2' x='10' y='50' width='11' height='11'/%3E%3Crect fill='%23a4d0f2' x='70' width='11' height='11'/%3E%3Crect fill='%23a2cef1' x='60' y='10' width='11' height='11'/%3E%3Crect fill='%239fcdf1' x='50' y='20' width='11' height='11'/%3E%3Crect fill='%239cccf0' x='40' y='30' width='11' height='11'/%3E%3Crect fill='%2399cbf0' x='30' y='40' width='11' height='11'/%3E%3Crect fill='%2396caf0' x='20' y='50' width='11' height='11'/%3E%3Crect fill='%2393c8ef' x='80' width='11' height='11'/%3E%3Crect fill='%2390c7ef' x='70' y='10' width='11' height='11'/%3E%3Crect fill='%238cc6ef' x='60' y='20' width='11' height='11'/%3E%3Crect fill='%2389c5ee' x='50' y='30' width='11' height='11'/%3E%3Crect fill='%2386c4ee' x='40' y='40' width='11' height='11'/%3E%3Crect fill='%2383c3ed' x='30' y='50' width='11' height='11'/%3E%3Crect fill='%237fc1ed' x='90' width='11' height='11'/%3E%3Crect fill='%237cc0ed' x='80' y='10' width='11' height='11'/%3E%3Crect fill='%2378bfec' x='70' y='20' width='11' height='11'/%3E%3Crect fill='%2375beec' x='60' y='30' width='11' height='11'/%3E%3Crect fill='%2371bdeb' x='50' y='40' width='11' height='11'/%3E%3Crect fill='%236dbceb' x='40' y='50' width='11' height='11'/%3E%3Crect fill='%2369bbea' x='90' y='10' width='11' height='11'/%3E%3Crect fill='%2365b9ea' x='80' y='20' width='11' height='11'/%3E%3Crect fill='%2361b8ea' x='70' y='30' width='11' height='11'/%3E%3Crect fill='%235db7e9' x='60' y='40' width='11' height='11'/%3E%3Crect fill='%2358b6e9' x='50' y='50' width='11' height='11'/%3E%3Crect fill='%2354b5e8' x='90' y='20' width='11' height='11'/%3E%3Crect fill='%234fb4e8' x='80' y='30' width='11' height='11'/%3E%3Crect fill='%2349b3e7' x='70' y='40' width='11' height='11'/%3E%3Crect fill='%2343b2e7' x='60' y='50' width='11' height='11'/%3E%3Crect fill='%233db1e6' x='90' y='30' width='11' height='11'/%3E%3Crect fill='%2336afe6' x='80' y='40' width='11' height='11'/%3E%3Crect fill='%232eaee5' x='70' y='50' width='11' height='11'/%3E%3Crect fill='%2325ade5' x='90' y='40' width='11' height='11'/%3E%3Crect fill='%2318ace4' x='80' y='50' width='11' height='11'/%3E%3Crect fill='%2300ABE4' x='90' y='50' width='11' height='11'/%3E%3C/g%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
+}
+.imaging{
+  width: 40%;
+}
+.logining{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  align-items: center;
+}
+.logoClass {
+  background-color: transparent;
+  margin: 6rem 2rem 26px 70px;
+  width: 80%;
+}
+
+.spanValue {
+  color: #00749b;
+}
+
+.imageAbout {
+  height: 35rem;
+  margin-left: 6rem;
+  /* position: absolute;
+  top: 197%; */
+}
+.gridingness{
+color: rgb(143, 142, 142);
+}
+.tableBorder{
+  border:2px solid #00ABE4;
+  background-color: #E9F1FA;
+}
+.backgrounding{
+  background-color: #E9F1FA;
+}
+.gridingness:hover{
+  background-color: #00ABE4;
+  color: white;
+}
+
+.btnValue {
+  color: #00749b;
+  border: 2px solid #00749b;
+  padding: 6px 20px 6px 20px;
+  margin: 7px;
+  border-radius: 2rem;
+  transition: 0.5s;
+}
+
+.btnValue:hover {
+  color: white;
+  background-color: #00749b;
+}
+
+.heading {
+  color: #00749b;
+}
+
+.pofService {
+  font-size: 1.3rem;
+  line-height: 30px;
+}
+
+
+.backcolor {
+  background-color: #E9F1FA;
+}
+
+.headingService {
+  font-size: 1.8rem;
+  color: #00749b;
+}
+
+.serviceHead {
+  font-size: 3rem;
+  margin: 5rem 0 7rem 0;
+  color: #00749b;
+}
+
+.paraAbout {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+.faq {
+  background-color: #E9F1FA;
+}
+
+.paraHome {
+  margin: 0;
+  font-size: 1.4rem;
+  line-height: 38px;
+  width: 30rem;
+}
+
+.navbar {
+  background-color: #00ABE4;
+}
+
+.footer {
+  background-color: #00ABE4;
+}
+.imageview{
+  width:30rem;
+  background-color:#E9F1FA;
+}
+.signup1{
+  padding-bottom: 10rem !important;
+}
+.SignUp{
+  width: 25rem;
+  background-color:#E9F1FA !important;
+}
+.signup2{
+  padding-bottom: 10rem;
+}
+* {
+  font-family: 'Roboto', sans-serif !important;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+@media screen and (max-width: 600px) {
+  .paraHome {
+    width: 22rem;
+}
+.imageAbout {
+  height: 25rem;
+  margin-left:0;
+}
+.SignUp{
+  width: 25rem;
+}
+.logoClass {
+  background-color: transparent;
+  margin: 1rem 1rem 26px 11px;
+  width: 95%;
+}
+.serviceHead {
+  font-size: 3rem;
+  margin: 2rem 0 7rem 0;
+}
+.abouth2{
+  text-align: center;
+}
+.contactus{
+  font-size: 2.7rem;
+  text-align: center;
+  margin: 0 0 2rem 0;
+}
+.contactus1{
+  font-size: 1.7rem;
+  text-align: center;
+  margin: 0 0 2rem 0;
+}
+.contactus2{
+  font-size: 1.4rem;
+  width: 93%;
+  padding-left: 1.2rem;
+  margin: 0 0 2.5rem 0;
+}
+.imageview{
+  width:25rem;
+}
+.loginBox {
+  padding-top: 6rem;
+}
+.logining {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 5rem;
+}
+.padt{
+  padding-top: 11rem;
+}
+.imaging {
+  width: 100%;
+}
+}
